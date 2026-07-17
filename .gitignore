@@ -1,0 +1,10 @@
+env/
+venv/
+.venv/
+
+__pycached__/
+*.py[cod]
+
+db.sqlite3
+
+.vscode/
